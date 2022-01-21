@@ -4,7 +4,7 @@
 
 ---
 
-[![TadeopCreator's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeopCreator)](https://github.com/TadeopCreator/github-readme-stats)
+[![TadeopCreator's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeopCreator&show_icons=true&theme=dark)](https://github.com/TadeopCreator/github-readme-stats)
 
 <!---
 TadeopCreator/TadeopCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
