@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TadeopCreator
-- 👀 I’m interested in Android and Web development
+- 👀 I’m interested in IOS and Web development
 - 🌱 I’m currently learning everything
 
 ---
