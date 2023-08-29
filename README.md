@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TadeopCreator
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning AWS
 
 ---
 
