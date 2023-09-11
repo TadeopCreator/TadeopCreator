@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TadeopCreator
-- 👀 I’m interested in Backend
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS
 
 ---
