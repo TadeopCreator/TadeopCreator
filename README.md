@@ -12,6 +12,7 @@
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TadeopCreator&repo=financial-news-analysis-dashboard&theme=dark)](https://github.com/TadeopCreator/financial-news-analysis-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TadeopCreator&repo=portfolio-website&theme=dark)](https://github.com/TadeopCreator/portfolio-website)
 <!---
 TadeopCreator/TadeopCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
