@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TadeopCreator
+# 👋 Hi, I’m Tadeo Deluca
 - 👀 I’m interested in Data science
 - ☁️ I’m currently learning Google Cloud
 
