@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TadeopCreator
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Google Cloud
+- ☁️ I’m currently learning Google Cloud
 
 ---
 
