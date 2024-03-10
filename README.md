@@ -1,4 +1,4 @@
-![Tadeo GitHub Banner](https://media.licdn.com/dms/image/D4D16AQFtD98J8xZDDA/profile-displaybackgroundimage-shrink_350_1400/0/1705873923202?e=1711584000&v=beta&t=pxrGPp3U_cfeigfovPtFtGz6eojm43ceov4SDwj1yiE)
+![Tadeo GitHub Banner](https://media.licdn.com/dms/image/D4D16AQH7dv-fEABshA/profile-displaybackgroundimage-shrink_350_1400/0/1710081600556?e=1715817600&v=beta&t=A9pMhhCXfA3Xf_t0O6YDWsz_A2ul-3Z_ci3DSFZKrK8)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tadeo-deluca/)
 
