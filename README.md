@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Tadeo Deluca
 - 👀 I’m interested in **Data Engineer**
-- ☁️ I’m currently learning **Google Cloud**  
+- ☁️ I’m currently learning **Azure**  
 
 ---
 
