@@ -3,8 +3,8 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tadeo-deluca/)
 
 # 👋 Hi, I’m Tadeo Deluca
-- 👀 I’m interested in **Data Engineer**
-- ☁️ I’m currently learning **Azure**  
+- 👀 I’m interested in **Data Engineer/DevOps**
+- ☁️ I’m currently learning **Cloud computing**  
 
 ---
 
